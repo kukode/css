@@ -150,9 +150,20 @@ Untuk sumber lengkap silahkan kunjungi <a href="https://www.w3schools.com/css/cs
 
 > Properti margin CSS digunakan untuk membuat ruang di sekitar elemen, di luar batas yang ditentukan. Dengan CSS, Anda memiliki kendali penuh atas margin. Ada properti untuk mengatur margin untuk setiap sisi elemen (atas, kanan, bawah, dan kiri).
 <br>
-CSS memiliki properti untuk menentukan margin untuk setiap sisi elemen:
+CSS memiliki properti untuk menentukan margin untuk setiap sisi elemen :
 
 - margin-top
 - margin-right
 - margin-bottom
 - margin-left
+
+# Css Padding
+
+> Properti CSS padding digunakan untuk menghasilkan ruang di sekitar konten elemen, di dalam batas yang ditentukan. Dengan CSS, Anda memiliki kendali penuh atas padding. Ada properti untuk mengatur padding untuk setiap sisi elemen (atas, kanan, bawah, dan kiri).
+<br>
+CSS memiliki properti untuk menentukan padding untuk setiap sisi elemen :
+
+- padding-top
+- padding-right
+- padding-bottom
+- padding-left

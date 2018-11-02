@@ -9,10 +9,13 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app">Please Wait......</div>
+  <div data-app id="app">Please Wait......</div>
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('sw.js')
+    }
+    window.$docsify = {
+      el: '#app'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

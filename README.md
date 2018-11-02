@@ -91,3 +91,23 @@ Inline Style Sheet
     <h1 style="color:blue;margin-left:30px;">This is a heading</h1>
 
 </code>
+
+# Css color
+
+> Ada beberapa property css yang sering digunakan untuk memberikan warna pada tulisan maupun background pada website. Berikut beberapa property yang sering digunakan : 
+<br>
+
+<code>
+    
+    <h1>pemeberian warna pada tulisan dan background warna
+    <style>
+    
+        h1 {
+            color: blue;
+            background-color:red
+        }
+        
+    </style>
+
+
+</code>

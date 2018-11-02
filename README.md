@@ -101,12 +101,29 @@ Inline Style Sheet
     
     <h1>pemeberian warna pada tulisan dan background warna
     <style>
-    
+
         h1 {
             color: blue;
             background-color:red
         }
         
+    </style>
+
+
+</code>
+
+# Css background
+
+> Selain memberikan warna pada css kita juga dapat membuat background menggunakan gambar dengan css, berikut contohnya : 
+
+<code>
+
+    <body>memberikan backgrond pada body webiste</body>
+
+    <style>
+        body {
+            background-image: url("1.jpg");
+        }
     </style>
 
 

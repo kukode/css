@@ -145,3 +145,14 @@ Inline Style Sheet
 </code>
 
 Untuk sumber lengkap silahkan kunjungi <a href="https://www.w3schools.com/css/css_border.asp">Border</a>
+
+# Css margin
+
+> Properti margin CSS digunakan untuk membuat ruang di sekitar elemen, di luar batas yang ditentukan. Dengan CSS, Anda memiliki kendali penuh atas margin. Ada properti untuk mengatur margin untuk setiap sisi elemen (atas, kanan, bawah, dan kiri).
+<br>
+CSS memiliki properti untuk menentukan margin untuk setiap sisi elemen:
+
+- margin-top
+- margin-right
+- margin-bottom
+- margin-left

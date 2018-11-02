@@ -112,7 +112,7 @@ Inline Style Sheet
 
 </code>
 
-# Css background
+# Css background image
 
 > Selain memberikan warna pada css kita juga dapat membuat background menggunakan gambar dengan css, berikut contohnya : 
 
@@ -128,3 +128,20 @@ Inline Style Sheet
 
 
 </code>
+
+# Css Border
+
+> Dengan menggunakan Css Border kita dapat memberikan style berupa garis pada selector HTML, berikut contohnya : 
+<code>
+
+    <p>berikan border pada paragraph ini</p>
+    <style>
+        <p>
+            p.solid {border-style: solid;}
+        </p>
+    </style>
+
+
+</code>
+
+Untuk sumber lengkap silahkan kunjungi <a href="https://www.w3schools.com/css/css_border.asp">Border</a>
